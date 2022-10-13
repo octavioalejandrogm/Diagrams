@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-10-13T21:43:57.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6eGasCvfFKgqAMJ_TG2y" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-13T22:00:57.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vByhtVh0diGVCJKYeAMv" version="20.4.0" type="github">
   <diagram id="2i4bGPnVI529aCsl2PKk" name="Page-1">
-    <mxGraphModel dx="808" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="716" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pE5c4ry1s6cFORCVuCyy-18" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Productivos&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="1">
-          <mxGeometry x="330" y="112.59" width="266" height="320" as="geometry" />
+          <mxGeometry x="325" y="111.59" width="266" height="320" as="geometry" />
         </mxCell>
         <mxCell id="pE5c4ry1s6cFORCVuCyy-39" value="GitLab Runner&amp;nbsp;&lt;br&gt;(Queretaro)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="414" y="129" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="129" width="156" height="111" as="geometry" />
         </mxCell>
         <mxCell id="pE5c4ry1s6cFORCVuCyy-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;AVL&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;align=left;" vertex="1" parent="1">
           <mxGeometry x="170" y="-100" width="371.86" height="190" as="geometry" />
@@ -19,7 +19,7 @@
         <mxCell id="pE5c4ry1s6cFORCVuCyy-4" value="SonarQube (v 9) (Queretaro)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="680" y="99" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="EPyueugh2iobcvaEf9Se-22" value="Despliegue" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="EPyueugh2iobcvaEf9Se-22" value="Despliegue (SENHA)" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="626.31" y="-116.25" width="166.25" height="166.25" as="geometry" />
         </mxCell>
         <mxCell id="EPyueugh2iobcvaEf9Se-1" value="GitLab&amp;nbsp;&lt;br&gt;Server" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
@@ -87,14 +87,8 @@
         <mxCell id="pE5c4ry1s6cFORCVuCyy-29" value="HOSTNAME:tqavlstrosei01 &#xa;IP Produccion: 10.231.16.61 &#xa;IP Gestion: 10.59.19.56" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="364.01" y="-30.22" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pE5c4ry1s6cFORCVuCyy-33" value="GitLab&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="pE5c4ry1s6cFORCVuCyy-33" value="GitLab&lt;br&gt;Server (Queretaro)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="193.5" y="-50" width="126.5" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="pE5c4ry1s6cFORCVuCyy-34" value="" style="endArrow=none;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="270.5" as="sourcePoint" />
-            <mxPoint x="600" y="284.42857142857133" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="pE5c4ry1s6cFORCVuCyy-36" value="Repositorio NEXUS&lt;br&gt;(SENHA)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="620" y="-310" width="170" height="160" as="geometry" />
@@ -102,14 +96,23 @@
         <mxCell id="pE5c4ry1s6cFORCVuCyy-37" value="HOSTNAME:AMCIDINTNEXU01A &#xa;IP Produccion: 10.99.226.211&#xa;IP Gestion: 10.99.247.175" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
           <mxGeometry x="626.31" y="-300" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pE5c4ry1s6cFORCVuCyy-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
-          <mxGeometry x="196.75" y="-45" width="120" height="25" as="geometry" />
-        </mxCell>
         <mxCell id="pE5c4ry1s6cFORCVuCyy-40" value="GitLab Runner&amp;nbsp;&lt;br&gt;(Azure)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="414" y="247.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="412" y="243" width="166" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="EPyueugh2iobcvaEf9Se-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1">
-          <mxGeometry x="508" y="164" width="25" height="25" as="geometry" />
+          <mxGeometry x="530" y="200" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="pE5c4ry1s6cFORCVuCyy-43" value="HOSTNAME:&amp;nbsp;&lt;br&gt;IP Produccion: 10.55.69.105&amp;nbsp;&lt;br&gt;IP Gestion: 10.59.189.133" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="417" y="135" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pE5c4ry1s6cFORCVuCyy-45" value="HOSTNAME:&amp;nbsp;&lt;br&gt;IP Produccion:&amp;nbsp;&amp;nbsp;&lt;br&gt;IP Gestion: 10.68.231.154" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="417" y="251.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pE5c4ry1s6cFORCVuCyy-49" value="HOSTNAME:tqavlstrosen02&amp;nbsp;&#xa;IP Produccion: 10.59.19.61&amp;nbsp;&#xa;IP Gestion: 10.231.16.67" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="193.5" y="-48.12" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pE5c4ry1s6cFORCVuCyy-50" value="OKD&#xa;HOSTNAME: AMCIDINTJENK01A &#xa;IP Produccion: 10.99.226.209 &#xa;IP Gestion: 10.99.245.115" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="630" y="-90.22" width="130" height="40.22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
