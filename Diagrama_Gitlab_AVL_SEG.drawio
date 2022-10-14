@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-14T14:26:40.802Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DlO-mnbcgPlgzf0dPskt" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-14T14:27:54.377Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="54laNqwXW9rq7NhwK09t" version="20.4.1" type="github">
   <diagram id="2i4bGPnVI529aCsl2PKk" name="Page-1">
     <mxGraphModel dx="867" dy="1656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
           <mxGeometry x="193.5" y="-50" width="126.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pE5c4ry1s6cFORCVuCyy-36" value="Repositorio NEXUS&lt;br&gt;(SENHA)" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="618.21" y="-308" width="170" height="160" as="geometry" />
+          <mxGeometry x="619.21" y="-308" width="170" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pE5c4ry1s6cFORCVuCyy-37" value="HOSTNAME:AMCIDINTNEXU01A &#xa;IP Produccion: 10.99.226.211&#xa;IP Gestion: 10.99.247.175" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;" parent="1" vertex="1">
           <mxGeometry x="626.31" y="-300" width="120" height="30" as="geometry" />
